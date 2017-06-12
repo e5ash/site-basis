@@ -1,0 +1,99 @@
+i.icon-arrow-down-blue {
+  background-image: url(../img/sprite.png);
+  background-position: -97px -64px;
+  width: 8px;
+  height: 6px; }
+
+i.icon-arrow-down-gray {
+  background-image: url(../img/sprite.png);
+  background-position: -89px -64px;
+  width: 8px;
+  height: 6px; }
+
+i.icon-arrow-left-blue {
+  background-image: url(../img/sprite.png);
+  background-position: -64px -44px;
+  width: 24px;
+  height: 18px; }
+
+i.icon-arrow-left {
+  background-image: url(../img/sprite.png);
+  background-position: -18px -79px;
+  width: 18px;
+  height: 44px; }
+
+i.icon-arrow-right {
+  background-image: url(../img/sprite.png);
+  background-position: 0px -79px;
+  width: 18px;
+  height: 44px; }
+
+i.icon-arrow-up {
+  background-image: url(../img/sprite.png);
+  background-position: -72px -64px;
+  width: 17px;
+  height: 11px; }
+
+i.icon-clear {
+  background-image: url(../img/sprite.png);
+  background-position: -124px -65px;
+  width: 16px;
+  height: 12px; }
+
+i.icon-config {
+  background-image: url(../img/sprite.png);
+  background-position: -36px -79px;
+  width: 20px;
+  height: 20px; }
+
+i.icon-facebook {
+  background-image: url(../img/sprite.png);
+  background-position: -108px 0px;
+  width: 32px;
+  height: 33px; }
+
+i.icon-info {
+  background-image: url(../img/sprite.png);
+  background-position: 0px 0px;
+  width: 64px;
+  height: 64px; }
+
+i.icon-instagram {
+  background-image: url(../img/sprite.png);
+  background-position: -108px -33px;
+  width: 31px;
+  height: 32px; }
+
+i.icon-magnifying-glass {
+  background-image: url(../img/sprite.png);
+  background-position: -64px 0px;
+  width: 44px;
+  height: 44px; }
+
+i.icon-picture {
+  background-image: url(../img/sprite.png);
+  background-position: -108px -65px;
+  width: 16px;
+  height: 14px; }
+
+i.icon-plus {
+  background-image: url(../img/sprite.png);
+  background-position: -56px -79px;
+  width: 20px;
+  height: 20px; }
+
+i.icon-price {
+  background-image: url(../img/sprite.png);
+  background-position: -88px -44px;
+  width: 16px;
+  height: 16px; }
+
+i.icon-whats-app {
+  background-image: url(../img/sprite.png);
+  background-position: 0px -64px;
+  width: 72px;
+  height: 15px; }
+
+i.icon {
+  display: inline-block;
+  vertical-align: middle; }
